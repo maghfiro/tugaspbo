@@ -13,7 +13,7 @@ public class Arsipku implements Biodata, Nilai{
     }
     
    public void nama(){
-       System.out.println("Namaku = Maghfiro Nur Eka S");
+       System.out.println("Namaku = Dwi Putri Wulan G");
    }
    
    public void tempatLahir(){
